@@ -1,0 +1,10 @@
+# 配置数据文件
+
+# 【主机IP】
+URL:
+  - http://127.0.0.1
+  - http://test
+
+# 【测试数据】
+test_data:
+  data: 123
